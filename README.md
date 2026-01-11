@@ -55,7 +55,7 @@ project-root/
 ## ⚙️ Backend Setup (Laravel)
 
 ### 1️⃣ Clone the repo
-```bash
+
 git clone <repository-url>
 cd backend
 
@@ -134,13 +134,6 @@ Sessions, cache, and queues are set to file / sync drivers for local testing.
 
 Run php artisan migrate whenever you need to reset or create tables.
 
-🎨 Optional Improvements
-
-Add React frontend routing for multiple pages
-
-Add authentication using Laravel Sanctum
-
-Add unit / feature tests for backend APIs
 
 📄 License
 
