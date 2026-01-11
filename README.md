@@ -55,6 +55,7 @@ project-root/
 ## ⚙️ Backend Setup (Laravel)
 
 ### 1️⃣ Clone the repo
+```bash
 
 git clone <repository-url>
 cd backend
